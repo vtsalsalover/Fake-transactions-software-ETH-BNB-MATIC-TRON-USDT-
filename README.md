@@ -1,7 +1,7 @@
 # Fake transactions software  (ETH, BNB, MATIC, TRON, USDT)
 **Official telegram channel** - [https://t.me/fake_sender](https://t.me/fake_sender) 
 
-![image](https://github.com/user-attachments/assets/7b64aa25-05a3-4574-ad9a-b4996ea899f9)
+
 
 Brief description of the software:
 
@@ -16,7 +16,7 @@ The principle of work of the software:
 * Saves tokens of all created wallets
 * Software checks all wallets for $$$$
 * All values, amounts can be edited in config
-
+![image](https://github.com/user-attachments/assets/7b64aa25-05a3-4574-ad9a-b4996ea899f9)
 Screens:
 The top transaction is ours, the bottom one was made by the victim.
 The addresses are identical at the beginning and at the end so that the victim accidentally dropped the money in the wrong place. (That's us)

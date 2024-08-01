@@ -1,4 +1,4 @@
-Fake transactions software  (ETH, BNB, MATIC, TRON, USDT)
+# Fake transactions software  (ETH, BNB, MATIC, TRON, USDT)
 Brief description of the software:
 
 The software is calculated on the victim's inattention, when for example the victim sends money to someone, then at once both the sender and the recipient is sent the amount in response from an identical address,
@@ -20,5 +20,5 @@ The addresses are identical at the beginning and at the end so that the victim a
 ![image](https://github.com/user-attachments/assets/11f04b92-f679-4f91-9050-b992fb71adac)
 ![image](https://github.com/user-attachments/assets/89992f9c-8112-408a-8e7e-3090b2c078e3)
 
-The software checks to whom it is going to send the transaction and if it sees that it is an exchanger or a stock exchange, it does not perform the process of sending the transaction. 
-This is done so that the software sends transactions only to real users and not to services in order to avoid unnecessary costs.
+**The software checks to whom it is going to send the transaction and if it sees that it is an exchanger or a stock exchange, it does not perform the process of sending the transaction. 
+This is done so that the software sends transactions only to real users and not to services in order to avoid unnecessary costs.**
